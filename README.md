@@ -4,6 +4,8 @@ This repository contains a Java solution that build two Web API web services. Th
 
   - Create an :Employee node with parameters: 1) String name; and 2) int emp_Id
   - Return all :Employee nodes
+  - Deployed Neo4J Server here: http://neo4j-gmc.eastus.cloudapp.azure.com:7474/browser; password: Pass@word1. 
+    - BTW, I don't typically put passwords in readme files :)
   
  To run the solution on a local environment, do the following:
  - clone the contents to a local directory
